@@ -1,0 +1,20 @@
+[
+    {
+        "produto": "panela",
+        "categoria": "utensilio",
+        "quantidade_estoque": "45",
+        "preco_produto": "90.80"
+    },
+    {
+        "produto": "garfo",
+        "categoria": "40",
+        "quantidade_estoque": "40.87",
+        "preco_produto": "89"
+    },
+    {
+        "produto": "prato",
+        "categoria": "lou\u00e7a",
+        "quantidade_estoque": "32",
+        "preco_produto": "29.49"
+    }
+]
